@@ -1,0 +1,3 @@
+{ "email":"abc@123.com",  "did_you_mean":"abc@me.com",  "user":"abc",  "domain":"123.com",  "format_valid":true,  "mx_found":false,  "smtp_check":false,  "catch_all":null,  "role":false,  "disposable":false,  "free":true,  
+"score":0.16
+}
